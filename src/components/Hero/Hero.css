@@ -172,7 +172,8 @@
     gap: 1rem;
   }
 
-  .hero-img>div {
+  .hero-img>div,
+  .left-tech-icons {
     gap: 1rem;
   }
 
